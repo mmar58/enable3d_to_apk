@@ -1,0 +1,6 @@
+{
+  "appId": "com.mmar.shooter",
+  "appName": "testcap",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
